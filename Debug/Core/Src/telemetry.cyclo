@@ -1,0 +1,7 @@
+../Core/Src/telemetry.c:14:5:setupTelemetry	1
+../Core/Src/telemetry.c:19:5:sendData	1
+../Core/Src/telemetry.c:31:5:receiveData	1
+../Core/Src/telemetry.c:43:21:sx126x_hal_write	5
+../Core/Src/telemetry.c:75:21:sx126x_hal_read	5
+../Core/Src/telemetry.c:104:21:sx126x_hal_reset	1
+../Core/Src/telemetry.c:114:21:sx126x_hal_wakeup	1
